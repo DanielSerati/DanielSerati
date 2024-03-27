@@ -17,8 +17,6 @@
 <div align = "center">
   <a href="https://github.com/DanielSerati">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSerati&layout=compact&langs_count=168&theme=nightowl"/>
-
-  ![Snake animation](https://github.com/DanielSerati/DanielSerati/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00009C&height=120&section=footer"/>
