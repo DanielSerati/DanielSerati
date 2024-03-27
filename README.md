@@ -15,8 +15,8 @@
 
 ## 📊 Status:
 <div align = "center">
-  <a href="#">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=168&theme=nightowl"/>
+  <a href="https://github.com/DanielSerati">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSerati&layout=compact&langs_count=168&theme=nightowl"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E00B5B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00009C&height=120&section=footer"/>
